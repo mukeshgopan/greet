@@ -1,1 +1,2 @@
-# greet
+hi world;
+greet everyone
